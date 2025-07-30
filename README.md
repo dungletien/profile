@@ -1,6 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋, I'm Dũng</h1>
 
-<p align="left">My name is Dung and I'm a frontend developer, from Viet Nam</p>
+<p align="left">A passionate frontend developer from VietNam</p>
 
 <h2 align="left">About me</h2>
 
